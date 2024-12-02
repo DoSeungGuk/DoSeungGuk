@@ -24,23 +24,31 @@
 - 🌱 현재 `파이썬`과 `Django`를 배우며 백엔드 개발을 하고 있어요.
 - 🔭 개인 프로젝트로 웹 애플리케이션을 개발하고 있어요.
 - 💡 문제를 해결하는 과정에서 얻는 성취감을 즐겨요.
-- 🐱 고양이를 정말 좋아해서 여유 시간엔 고양이들과 함께해요.
+- 🐱 고양이를 비롯한 여러 동물 및 자연을 좋아해요.
 
 ---
 
 ## 🛠️ 주요 프로젝트
 
-### [프로젝트 이름 1](https://github.com/DoSeungGuk/프로젝트1)
-간단한 설명: Django와 Vue.js로 풀스택 웹 애플리케이션을 제작했어요.
+### [오늘의 은행 (Today's Bank)](https://github.com/DoSeungGuk/todaybank)
+간단한 설명: 금융 서비스와 관련된 다양한 기능을 제공하는 풀스택 웹 애플리케이션입니다.
 
-- ⭐ 주요 기능: 회원 가입, 로그인, 게시판 CRUD
-- 📦 기술 스택: Django, Vue.js, PostgreSQL
+- **팀명**: 강도 (KANGDO)
+- **프로젝트 기간**: 2024년 11월 18일 ~ 2024년 11월 27일
+- **사용 기술 스택**: Node.js, TypeScript, Vue.js, SCSS, SQLite
+- **주요 기능**:
+  - **예적금 금리 비교 및 검색**: 금융감독원 API 연동, 예적금 상품 무한 스크롤 및 정렬 기능.
+  - **환율 계산기**: 실시간 환율 정보 제공 및 환율 변동 그래프 시각화.
+  - **주변 은행 찾기**: Kakao Maps API를 활용한 위치 검색 및 필터링 기능.
+  - **금융 상품 추천 시스템**: AI 기반 맞춤형 질문과 응답 분석을 통해 최적의 금융 상품 추천.
+  - **커뮤니티 및 회원 기능**: 게시판, 회원가입 및 마이페이지 기능.
 
-### [프로젝트 이름 2](https://github.com/DoSeungGuk/프로젝트2)
-간단한 설명: Python을 이용한 데이터 분석 프로젝트입니다.
+- **느낀 점**:
+  - **강민석**: OAuth 연동과 실시간 데이터 처리에서 백엔드 지식의 필요성을 느낌.
+  - **도승국**: 코드의 가독성과 유지보수의 중요성을 실감.
 
-- ⭐ 주요 기능: 데이터 시각화, 예측 모델 구축
-- 📦 기술 스택: Python, Pandas, Matplotlib
+[프로젝트 자세히 보기](https://github.com/DoSeungGuk/todaybank)
+
 
 ---
 
@@ -50,15 +58,16 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoSeungGuk&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DoSeungGuk&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DoSeungGuk&bg_color=ffffff&color=268bd2&line=2aa198&point=859900&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ---
 
 ## 🎉 Fun Facts
 
-- 🍵 녹차를 정말 좋아해서 하루에 두 잔 이상은 마셔야 해요.
-- 📚 기술 서적뿐만 아니라 소설 읽는 것도 즐겨요.
-- 🐱 고양이와 함께 있는 시간을 가장 소중히 여깁니다!
+- 🍵 차 종류를 좋아하고 커피는 그 다음으로 좋아합니다
+- 📚 기술 서적뿐만 아니라 소설 읽는 것도 즐겨요. 
+- 🐱 고양이를 좋아하는데 키우지는 않아요.
 
 ---
 
