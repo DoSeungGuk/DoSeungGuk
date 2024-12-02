@@ -1,4 +1,4 @@
-## <p align="center">👋 도승국 🚀</p>
+## <p align="center">👋😁 도승국 </p>
 
 
 <p align="center">
