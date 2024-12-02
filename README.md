@@ -1,4 +1,4 @@
-## <p align="center">👋 Welcome to my GitHub profile! 🚀</p>
+## <p align="center">👋 도승국 🚀</p>
 
 
 <p align="center">
@@ -8,8 +8,6 @@
 ---
 
 ## 🚀 기술 스택
-
-제가 사용하는 언어와 도구들입니다:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -21,11 +19,11 @@
 
 ## 👨‍💻 나에 대해 조금 더!
 
-- 🌱 `파이썬`과 `Django`를 바탕으로 백엔드 개발을 하고 있어요.
+- 🌱 `파이썬`과 `Django`를 바탕으로 백엔드, `Vue.js`,`JS`를 바탕으로 프론트 개발을 하고 있습니다.
 - ✨ `자바`와 `리액트`, `AI`에 관심을 가지고 있습니다.
-- 🔭 개인 프로젝트로 웹 애플리케이션을 개발하고 있어요.
-- 💡 문제를 해결하는 과정에서 얻는 성취감을 즐겨요.
-- 🐱 고양이를 비롯한 여러 동물 및 자연을 좋아해요.
+- 🔭 개인 프로젝트로 웹 애플리케이션을 개발하고 있습니다.
+- 💡 문제를 해결하는 과정에서 얻는 성취감을 즐깁니다.
+- 🐱 고양이를 좋아해요.
 
 ---
 
@@ -55,8 +53,8 @@
 ## 🎉 Fun Facts
 
 - 🍵 차 종류를 좋아하고 커피는 그 다음으로 좋아합니다
-- 📚 기술 서적뿐만 아니라 소설 읽는 것도 즐겨요. 
-- 🐱 고양이를 좋아하는데 키우지는 않아요.
+- 📚 기술 서적뿐만 아니라 소설 읽는 것도 즐겨요.  
+- 🐱 고양이를 키우지는 않아요.
 
 ---
 
