@@ -1,6 +1,6 @@
-## 👋
+## <p align="center">👋 Welcome to my GitHub profile! 🚀</p>
 
-<h3 align="center">Welcome to my GitHub profile! 🚀</h3>
+
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Hello World">
 </p>
