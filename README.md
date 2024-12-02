@@ -64,8 +64,7 @@
 
 ## 📬 연락하기
 
-- 📧 이메일: example@example.com
-- 💼 [LinkedIn 프로필](https://www.linkedin.com/in/example)
+- 📧 이메일: dororo737@gmail.com
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DoSeungGuk)
 
