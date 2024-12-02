@@ -50,18 +50,6 @@
 
 [프로젝트 자세히 보기](https://github.com/DoSeungGuk/todaybank)
 
-
----
-
-## 📈 GitHub 활동 통계
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DoSeungGuk&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoSeungGuk&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DoSeungGuk&bg_color=ffffff&color=268bd2&line=2aa198&point=859900&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 ---
 
 ## 🎉 Fun Facts
