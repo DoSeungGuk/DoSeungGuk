@@ -1,75 +1,54 @@
-## <p align="center"> Why를 얘기할 수 있는 
+## <p align="center"> '환경'과 '함께'를 생각하는 개발자
 
 ## 기술 스택
 
-### 백엔드
+### Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Django Rest Framework](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django%20REST-A30000?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 프론트엔드
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+### DevOps & Cloud
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-### 도구 및 기술
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=rest&logoColor=white)
+### Collaboration & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![MobaXterm](https://img.shields.io/badge/MobaXterm-13293D?style=for-the-badge)
 
 ---
 
 ## 👨‍💻 나에 대해 조금 더!
-
-- `Python`과 `Django`를 바탕으로 백엔드, `Vue.js`,`JS`를 바탕으로 프론트 개발을 하고 있습니다.
-- `Devops`에 흥미를 가지며 이와 관련한 AWS, Jenkins, Docker등을 공부 중입니다.
+- `DevOps`에 흥미를 가지고 있습니다.
+  - `AWS`, `Jenkins`, `Docker` 를 이용한 `Monolithic` 서버를 구성할 수 있습니다.
+  - `MSA` 구조를 공부하고 있습니다.
+- `Python`과 `Java` 기반의 Backend 를 개발할 수 있습니다.
 - 개인 프로젝트로 웹 애플리케이션을 개발하고 있습니다.
 - 문제를 해결하는 과정에서 얻는 성취감을 즐깁니다.
-
-### 개발자로서의 초심을 돌아보며
-저는 마이크로소프트의 Bing Wallpaper 서비스를 통해 개발에 관심을 가지게 되었습니다. 사라지는 사진들이 아쉬워 개인적으로 저장하기 시작했고, 나중에는 간단한 명령어를 이용해 이를 자동화하는 프로그램을 만들었습니다. 이 작은 성취감이 저에게 개발자로서의 첫 발걸음을 내딛게 만들었죠.
-
-**SSAFY(삼성 소프트웨어 아카데미)** 에 지원하게 된 계기도 이 경험에서 출발했습니다. 개발을 공부하며 기술적인 성취감뿐만 아니라, 사람들이 제가 만든 서비스를 사용하는 기쁨을 느끼게 하는 것이 진정한 동기가 되었습니다.
-
-최근에는 개인화된 추천 서비스를 개발하고자 새로운 도전을 시작했습니다. 사용자의 취향에 맞춘 콘텐츠 제공을 목표로, 기술적 도전과 성장의 즐거움을 함께 추구하고 있습니다.
-
-➡️ 네이버 블로그 [개발자로서의 초심: 전체 이야기](https://blog.naver.com/lpok2657/223690928721)
-
-
 ---
 
 ## 🛠️ 주요 프로젝트
 
-### [오늘의 은행 (Today's Bank)](https://github.com/KR-ImPlant/Today-s_Bank)
-간단한 설명: 금융 서비스와 관련된 다양한 기능을 제공하는 풀스택 웹 애플리케이션입니다.
-
-- **팀명**: 강도 (KANGDO)
-- **프로젝트 기간**: 2024년 11월 18일 ~ 2024년 11월 27일
-- **사용 기술 스택**: Node.js, TypeScript, Vue.js, SASS, SQLite
-- **주요 기능**:
-  - **예적금 금리 비교 및 검색**: 금융감독원 API 연동, 예적금 상품 무한 스크롤 및 정렬 기능.
-  - **환율 계산기**: 실시간 환율 정보 제공 및 환율 변동 그래프 시각화.
-  - **주변 은행 찾기**: Kakao Maps API를 활용한 위치 검색 및 필터링 기능.
-  - **금융 상품 추천 시스템**: AI 기반 맞춤형 질문과 응답 분석을 통해 최적의 금융 상품 추천.
-  - **커뮤니티 및 회원 기능**: 게시판, 회원가입 및 마이페이지 기능.
-
-- **느낀 점**:
-  - **강민석**: OAuth 연동과 실시간 데이터 처리에서 백엔드 지식의 필요성을 느낌.
-  - **도승국**: 코드의 가독성과 유지보수의 중요성을 실감.
-
-[프로젝트 자세히 보기](https://github.com/KR-ImPlant/Today-s_Bank)
-
----
-
-## 🎉 Fun Facts
-
-- 🍵 차 종류를 좋아하고 커피는 그 다음으로 좋아합니다
-- 📚 기술 서적뿐만 아니라 소설 읽는 것도 즐겨요. 
-
+### [꼼대 (kkomdae) [2025.02.24 ~ 04 .17]]
+  - 랜딩페이지 링크:
+    - https://kkomdae01.ssafyapp.com/
+  - 영상 포트폴리오 링크:
+    - [12기_특화PJT_영상 포트폴리오_D101.mp4-Google Drive](https://drive.google.com/file/d/1DYmdNA14-44DYaeVOr8yPrpZo5REtVvz/view?usp=sharing)
+  - **개요:**
+      - AI를 활용한 SSAFY 장비 대여 및 반납 서비스
+  - **구현 내용:**
+      1. AI를 통한 노트북 상태 점검
+      2. 프롬프팅을 통한 PDF 자동 생성
+      3. 노트북 자가진단 시스템
+      4. 관리자 웹 대시보드
+      5. 반납 일정 관리
+      6. 상세한 사진 촬영 가이드
+      7. SSAFY 로그인
 ---
 
 ## 📬 연락하기
